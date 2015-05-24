@@ -9,6 +9,7 @@ int main()
 	std::cout<<"Enter positive integer: ";
 	std::cin>>i;
 	std::cout<<"\nFactorial of the given number is: " <<factorial(i)<<"\n";
+    std::cout<<"Done!";
 
 	return 0;
 }
