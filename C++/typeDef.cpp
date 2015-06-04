@@ -2,6 +2,8 @@
 #include<stdlib.h>
 #include<string.h>
 
+//http://stackoverflow.com/questions/2571831/can-a-function-return-more-than-one-value
+
 typedef struct
 {
     int a;
